@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h3>Date Format:</h3>
+	
 	<c:set var="currDate" value="<%=new java.util.Date()%>"/>
     
     
